@@ -1,3 +1,7 @@
+Repo to be removed after two issues resolved in core:
+1. Missing type definition for ResponsiveLine chart 'crosshair' https://github.com/plouc/nivo/issues/862
+2. Gradients supported for ResponsiveLine chat areas https://github.com/plouc/nivo/pull/844
+
 # `@nivo/line`
 
 [![version](https://img.shields.io/npm/v/@nivo/line.svg?style=flat-square)](https://www.npmjs.com/package/@nivo/line)
