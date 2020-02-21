@@ -54,6 +54,7 @@ declare module '@nivo/line' {
         | 'points'
         | 'mesh'
         | 'legends'
+        | 'crosshair'
 
     export interface CustomLayerProps extends Omit<LineSvgProps, 'xScale' | 'yScale'> {
         xScale: ScaleFunc
